@@ -12,5 +12,4 @@ In case you don't have the above libraries, then open your command prompt or ana
 To know more about the above libraries visit the link below:<br>
 requests: https://pypi.org/project/requests/  <br>
 urllib:  https://docs.python.org/3/library/urllib.html#module-urllib <br><br>
-
-TO get the NASA's API key :  https://api.nasa.gov/
+To get the NASA's API key :  https://api.nasa.gov/
