@@ -17,4 +17,6 @@ To display the image in an another window, we can use Python's Pillow library.<b
 To know more about the above libraries visit the link below:<br>
 requests: https://pypi.org/project/requests/  <br>
 urllib:  https://docs.python.org/3/library/urllib.html#module-urllib <br><br>
-To get the NASA's API key :  https://api.nasa.gov/
+To get the NASA's API key :  https://api.nasa.gov/<br>
+<b>Note:If you have trouble opening the Jupyter file then visit</b>,
+ https://nbviewer.jupyter.org/github/Mohan-Gupta/NASA-APOD/blob/master/APOD.ipynb
