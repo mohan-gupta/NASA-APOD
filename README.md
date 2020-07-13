@@ -7,7 +7,7 @@ Also you would need two libraries:<br>
 2. urllib.request : To Download the image<br>
 
 In case you don't have the above libraries, then open your command prompt or anaconda prompt and type,<br>
-"pip install requests", "pip install urllib".<br><br>
+"pip install requests", "pip install urllib".<br>
 
 To know more about the above libraries visit the link below:<br>
 requests: https://pypi.org/project/requests/  <br>
